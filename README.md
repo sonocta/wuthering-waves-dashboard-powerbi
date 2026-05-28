@@ -3,7 +3,7 @@
 A dashboard for Wuthering Waves and the Resonators in it.
 
 29/05/2026 —
-This is a dashboard for Wuthering Waves Resonators up until version 3.3 excluded the upcoming Resonators in version 3.4 (Lucy, Rebecca and Lucilla). Include the data set I made myself using sources like Wiki and etc. For Portofolio purpose.
+This is a dashboard for Wuthering Waves Resonators up to Version 3.3, excluding the upcoming Resonators in Version 3.4 (Lucy, Rebecca, and Lucilla). The dataset was created by myself using sources such as the Wiki and other references. This project was made for portfolio purposes.
 
 Default State (First look):
 <img width="1177" height="677" alt="image" src="https://github.com/user-attachments/assets/86482061-8580-42c0-bb69-5511322ab618" />
