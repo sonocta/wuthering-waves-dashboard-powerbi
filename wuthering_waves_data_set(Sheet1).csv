@@ -1,0 +1,48 @@
+character_key,character_id,character_name,rarity,attribute,weapon_type,gender,character_model,affiliation,birthplace,birthday,release_date,release_patch
+1,1404,Jiyan,5,Aero,Broadblade,Male,Male XL,Jinzhou,Huanglong,December 14,"May 22, 2024",1.0
+2,1302,Yinlin,5,Electro,Rectifier,Female,Female M,Jinzhou,Huanglong,September 17,"June 6, 2024",1.0
+3,1301,Calcharo,5,Electro,Broadblade,Male,Male XL,"""Ghost Hounds""",New Federation,July 8,"May 22, 2024",1.0
+4,1203,Encore,5,Fusion,Rectifier,Female,Female S,Black Shore,New Federation,March 21,"May 22, 2024",1.0
+5,1503,Verina,5,Spectro,Rectifier,Female,Female S,Jinzhou,New Federation,May 18,"May 22, 2024",1.0
+6,1104,Lingyang,5,Glacio,Gauntlets,Male,Male S,Jinzhou,Huanglong,August 8,"May 22, 2024",1.0
+7,1405,Jianxin,5,Aero,Gauntlets,Female,Female M,Jinzhou,Huanglong,April 6,"May 22, 2024",1.0
+8,1402,Yangyang,4,Aero,Sword,Female,Female M,Jinzhou,Huanglong,October 11,"May 22, 2024",1.0
+9,1202,Chixia,4,Fusion,Pistols,Female,Female M,Jinzhou,Huanglong,April 18,"May 22, 2024",1.0
+10,1103,Baizhi,4,Glacio,Rectifier,Female,Female XL,Jinzhou,Huanglong,September 10,"May 22, 2024",1.0
+11,1204,Mortefi,4,Fusion,Pistols,Male,Male XL,Jinzhou,New Federation,November 6,"May 22, 2024",1.0
+12,1403,Aalto,4,Aero,Pistols,Male,Male XL,Black Shore,New Federation,June 11,"May 22, 2024",1.0
+13,1303,Yuanwu,4,Electro,Gauntlets,Male,Male XL,Jinzhou,Huanglong,October 2,"May 22, 2024",1.0
+14,1601,Taoqi,4,Havoc,Broadblade,Female,Female M,Jinzhou,Huanglong,February 25,"May 22, 2024",1.0
+15,1602,Danjin,4,Havoc,Sword,Female,Female M,Jinzhou,Huanglong,August 31,"May 22, 2024",1.0
+16,1102,Sanhua,4,Glacio,Sword,Female,Female M,Jinzhou,Huanglong,January 20,"May 22, 2024",1.0
+17,1304,Jinhsi,5,Spectro,Broadblade,Female,Female M,Jinzhou,Huanglong,March 6,"June 28, 2024",1.1
+18,1205,Changli,5,Fusion,Sword,Female,Female XL,Jinzhou,Huanglong,June 6,"July 22, 2024",1.1
+19,1105,Zhezhi,5,Glacio,Rectifier,Female,Female M,Jinzhou,Huanglong,December 31,"August 15, 2024",1.2
+20,1305,Xiangli Yao,5,Electro,Gauntlets,Male,Male M,Jinzhou,Huanglong,Unknown,"September 7, 2024",1.2
+21,1505,The Shorekeeper,5,Spectro,Rectifier,Female,Female M,Black Shore,Black Shore,February 27,"September 26, 2024",1.3
+22,1106,Youhu,4,Glacio,Gauntlets,Female,Female S,Chongzhou,Huanglong,October 13,"October 24, 2024",1.3
+23,1603,Camellya,5,Havoc,Sword,Female,Female M,Black Shore,Unknown,Unknown,"November 14, 2024",1.4
+24,1504,Lumi,4,Electro,Broadblade,Female,Female M,Lollo Logistics,Huanglong,Unknown,"December 12, 2024",1.4
+25,1107,Carlotta,5,Glacio,Pistols,Female,Female SM,The Montelli Family,Rinascita,Unknown,"January 2, 2025",2.0
+26,1606,Roccia,5,Havoc,Gauntlets,Female,Female S ,Troupe of Fools,Rinascita,January 31,"January 23, 2025",2.0
+27,1506,Phoebe,5,Spectro,Rectifier,Female,Female SM,Order of the Deep,Rinascita,Unknown,"February 13, 2025",2.1
+28,1206,Brant,5,Fusion,Sword,Male,Male XL,Troupe of Fools,Rinascita,Unknown,"March 6, 2025",2.1
+29,1607,Cantarella,5,Havoc,Rectifier,Female,Female XL,The Fisalia Family,Rinascita,June 18,"March 27, 2025",2.2
+30,1507,Zani,5,Spectro,Gauntlets,Female,Female XL,The Montelli Family,Rinascita,Unknown,"April 29, 2025",2.3
+31,1407,Ciaccona,5,Aero,Pistols,Female,Female M,Ragunna,Rinascita,Unknown,"May 22, 2025",2.3
+32,1409,Cartethiya,5,Aero,Sword,Female,Female SM,Ragunna,Rinascita,Unknown,"June 12, 2025",2.4
+33,1207,Lupa,5,Fusion,Broadblade,Female,Female M,Septimont,Rinascita,Unknown,"July 3, 2025",2.4
+34,1608,Phrolova,5,Havoc,Rectifier,Female,Female M,Fractsidus,Unknown,Unknown,"July 24, 2025",2.5
+35,1306,Augusta,5,Electro,Broadblade,Female,Female XL,Septimont,Rinascita,Unknown,"August 28, 2025",2.6
+36,1410,Iuno,5,Aero,Gauntlets,Female,Female M,Septimont,Rinascita,Unknown,"September 17, 2025",2.6
+37,1208,Galbrena,5,Fusion,Pistols,Female,Female M,Black Shore,Rinascita,Unknown,"October 9, 2025",2.7
+38,1411,Qiuyuan,5,Aero,Sword,Male,Male XL,Mingting,Huanglong,Unknown,"October 30, 2025",2.7
+39,1508,Chisa,5,Havoc,Broadblade,Female,Female M,Startorch Academy,Asinohara,Unknown,"November 20, 2025",2.8
+40,1307,Buling,4,Electro,Rectifier,Female,Female M,Black Shore,Huanglong,Unknown,"December 11, 2025",2.8
+41,1509,Lynae,5,Spectro,Pistols,Female,Female M,Startorch Academy,New Federation,Unknown,"December 25, 2025",3.0
+42,1209,Mornye,5,Fusion,Broadblade,Female,Female SM,Startorch Academy,New Federation,Unknown,"January 15, 2026",3.0
+43,1210,Aemeath,5,Fusion,Sword,Female,Female M,Startorch Academy,Lahai-Roi,Unknown,"February 5, 2026",3.1
+44,1510,Luuk Herssen,5,Spectro,Gauntlets,Male,Male XL,Startorch Academy,New Federation,Unknown,"February 26, 2026",3.1
+45,1412,Sigrika,5,Aero,Gauntlets,Female,Female SM,Startorch Academy,Lahai-Roi,Unknown,"March 19, 2026",3.2
+46,1108,Hiyuki,5,Glacio,Sword,Female,Female XL,Startorch Academy,Asinohara,Unknown,"April 30, 2026",3.3
+47,1211,Denia,5,Fusion,Rectifier,Female,Female M,Fractsidus,Unknown,May 22,"May 21, 2026",3.3
